@@ -122,22 +122,22 @@ Password: Admin
 
 ## Captures d’écran
 
-Les captures d’écran du projet peuvent être ajoutées dans :
+## Captures d’écran
 
-```text
-docs/screenshots/
-```
+### Login
+![Login](HardwareShop/docs/screenshots/login.png)
 
-Exemples recommandés :
+### Items Management
+![Items](HardwareShop/docs/screenshots/items.png)
 
-```text
-docs/screenshots/login.png
-docs/screenshots/items.png
-docs/screenshots/categories.png
-docs/screenshots/customers.png
-docs/screenshots/billing.png
-docs/screenshots/report.png
-```
+### Categories Management
+![Categories](HardwareShop/docs/screenshots/categories.png)
+
+### Customers Management
+![Customers](HardwareShop/docs/screenshots/customers.png)
+
+### Billing Management
+![Billing](HardwareShop/docs/screenshots/billing.png)
 
 ## Améliorations possibles
 
